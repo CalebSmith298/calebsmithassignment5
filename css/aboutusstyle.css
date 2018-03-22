@@ -6,8 +6,11 @@ padding-top: 20px;
 }
 
 body{
- font-family: 'Domine';
+ font-family: 'Candal';
 
+}
+h2{
+  text-decoration: underline;
 }
 .mainheader{
   position: relative;

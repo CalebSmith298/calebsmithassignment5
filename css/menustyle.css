@@ -13,8 +13,19 @@
   }
 
 body{
- font-family: 'Domine';
+ font-family: 'Candal';
 
+
+
+}
+h2{
+  text-decoration: underline;
+}
+.bottom{
+  padding-top:50px;
+}
+.second{
+  padding-top: 25px;
 
 }
 .container{
